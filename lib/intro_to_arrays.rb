@@ -1,0 +1,2 @@
+def instatiating
+  Array.new
