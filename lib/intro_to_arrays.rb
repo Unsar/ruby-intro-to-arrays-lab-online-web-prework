@@ -1,2 +1,3 @@
 def instatiating
-  Array.authenticate_or_request_with_http_digest
+  Array.new
+end
