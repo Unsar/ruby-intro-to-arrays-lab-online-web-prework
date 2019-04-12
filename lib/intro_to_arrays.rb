@@ -1,3 +1,3 @@
 def instatiating
-  Array.new
+  array.new
 end
